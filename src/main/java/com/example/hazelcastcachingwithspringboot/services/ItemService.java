@@ -1,7 +1,7 @@
 package com.example.hazelcastcachingwithspringboot.services;
 
 import com.example.hazelcastcachingwithspringboot.entities.Item;
-import com.example.hazelcastcachingwithspringboot.entities.ItemRepository;
+import com.example.hazelcastcachingwithspringboot.repositories.ItemRepository;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;

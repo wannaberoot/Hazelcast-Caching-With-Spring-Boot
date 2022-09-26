@@ -20,7 +20,7 @@ To use caching in your Spring Boot application, you need to:
 
 ## Comparison of Data Loading Time by Database and Cache
 
-### Data Loading from Database: 5.415s
+### Data Loading from Database: 0.415s
 ![---](/images/1.png)
 
 ### Data Loading from Cache: 0.049s
